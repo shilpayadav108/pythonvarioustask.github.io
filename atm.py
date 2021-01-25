@@ -4,8 +4,8 @@ import string
 import os
 
 # creatinga lists of users, their PINs and bank statements
-users = ['user1', 'user2', 'user3']
-pins = ['1111', '2222', '3333']
+users = ['user', 'user2', 'user3']
+pins = ['1234', '2222', '3333']
 amounts = [1000, 2000, 3000]
 count = 0
 # while loop checks existance of the enterd username
